@@ -1,0 +1,27 @@
+Tutorial lengkap ada di "D:\Seismioto\#Tutorial Infografis Mingguan Stageof Denpasar.mp4"
+
+1. Download data di web fdsnws http://172.19.2.185:18080/fdsnws/event/1/builder dengan mengisi koorinat, format data menggunakan "SeisComP XML"
+2. Cek excel dirasakan.xlsx (Jika ada gempa dirasakan isi sesuai format di dirasakan_format.xlsx, dan jika tidak ada cukup kosongkan datanya dan sisakan heading saja)
+3. Jalankan program dengan isi file xml yang sudah di download dan rentang tanggal
+4. Klik "Jalankan"
+5. Tunggu sampai selesai
+6. Klik "Buka Folder Output"
+7. Cek kesesuaian antara data gempa terhadap diagram dan peta
+8. Masuk ke folder "data gempa"
+9. Copy semua filenya
+10. Paste di folder D:\Peta Seismisitas\peta seismisitas standard\Pelatihan Pembuatan Peta\bali\infografis mingguan
+11. buka file ArcGIS "seismisitas mingguan bali"
+12. Ubah judul peta sesuai periode nya
+13. export peta
+14. Perbarui peta di "Laporan Gempabumi.docx" dan "Release Gempabumi.docx" yang ada di folder gempa
+15. upload peta dan peta shakemap(jika ada gempa diraskan) ke canva
+16. buat diagram batang dan lingkaran untuk magnitude dan kedalaman sesuai data "Analisis Gempabumi.xlsx" yang ada di folder gempa
+17. Download video jadi dan upload ke drive https://drive.google.com/drive/folders/1T5EvE2nt_IYs5jWHbVby6SOwzHxvvM1J
+18. Lapor ke grup sosmed untuk mendapatkan izin upload
+19. Upload ke social media menggunakan "caption sosmed.docx" yang ada di folder gempa
+20. Buat Laporan dengan format yang ada di file caption sosmed yang ada di folder gempa sesuai link hasil upload di Instagram, facebook, dan X
+21. Perbarui Linktree sesuai link hasil upload di Instagram, facebook, dan X
+22. Kirim Laporan dan Info Linktree ke Grup Sosmed
+
+
+
